@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 requests = "*"
+requests-oauthlib = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
